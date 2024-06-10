@@ -1,11 +1,9 @@
 ## Bem-vindo(a) ao meu perfil Anderson0196 😁
 
- <div>
-   <a href="https://github.com/Anderson0196">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anderson0196&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson0196&layout=compact&langs_count=6&theme=tokyonight"/>
-
-</div>
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+ </div>
 
 ## My Skills
 
